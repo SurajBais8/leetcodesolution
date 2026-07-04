@@ -1,0 +1,12 @@
+| #  | Problem                                   | Difficulty | Concepts                                 |
+| -- | ----------------------------------------- | ---------- | ---------------------------------------- |
+| 1  | Minimum Window Substring                  | Hard       | Sliding Window, Hash Map                 |
+| 2  | Distinct Subsequences                     | Hard       | Dynamic Programming                      |
+| 3  | Edit Distance                             | Hard       | DP, String Matching                      |
+| 4  | Regular Expression Matching               | Hard       | DP, Recursion                            |
+| 5  | Wildcard Matching                         | Hard       | Greedy, DP                               |
+| 6  | Shortest Palindrome                       | Hard       | KMP, String Algorithms                   |
+| 7  | Palindrome Pairs                          | Hard       | Trie, Hashing                            |
+| 8  | Substring with Concatenation of All Words | Hard       | Sliding Window, Hash Map                 |
+| 9  | Scramble String                           | Hard       | DP, Divide & Conquer                     |
+| 10 | Longest Duplicate Substring               | Hard       | Binary Search, Rolling Hash (Rabin-Karp) |
